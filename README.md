@@ -4,7 +4,7 @@ PlanMyTrip is a top travel technology company that specializes in internet-relat
 ## Purpose
 To enhance the PlanMyTrip app by adding the weather description to the weather data. Input statements will filter the data for weather preference in order to identify potential travel destinations and nearby hotels. Using Geoapify Routing API, create a travel route between the cities and marker layer map. 
 ## Weather Data
-Using Jupyter Notebook and the CitiPy module we will generate a set of 2,000 random latitudes and longitudes, retrieve the nearest city, and perform an API call with OpenWeatherMap. Using API, we will retrieve thr current weather description for each city and create a new DataFrame containing the updated weather data.
+Using Jupyter Notebook and the CitiPy module we will generate a set of 2,000 random latitudes and longitudes, retrieve the nearest city, and perform an API call with OpenWeatherMap. Using API, we will retrieve the current weather description for each city and create a new DataFrame containing the updated weather data.
 
 ![1](Images/1.png)
 
