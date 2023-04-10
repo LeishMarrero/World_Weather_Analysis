@@ -6,8 +6,18 @@ To enhance the PlanMyTrip app by adding the weather description to the weather d
 ## Weather Data
 Using Jupyter Notebook and the CitiPy module we will generate a set of 2,000 random latitudes and longitudes, retrieve the nearest city, and perform an API call with OpenWeatherMap. Using API, we will retrieve thr current weather description for each city and create a new DataFrame containing the updated weather data.
 
-![1](
+![1](Images/1.png)
+
 ## Customer Travel Destinations Map
 Employ input statements to retrieve customer weather preferences. Using those preferences, identify potential travel destinations and nearby hotels. The map pictured will show destinations. 
+
+![2](Images/2.png)
+
+![3](Images/3.png)
+
 ## Travel Itinerary Map
 Using the Geoapify Routing API, create a travel itinerary and map that shows the route between four cities chosen from the customer's possible travel destinations with a pop-up marker for each city.
+
+![4](Images/4.png)
+
+![5](Images/5.png)
