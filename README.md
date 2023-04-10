@@ -9,7 +9,7 @@ Using Jupyter Notebook and the CitiPy module we will generate a set of 2,000 ran
 ![1](Images/1.png)
 
 ## Customer Travel Destinations Map
-Employ input statements to retrieve customer weather preferences. Using those preferences, identify potential travel destinations and nearby hotels. The map pictured will show destinations. 
+Employ input statements to retrieve customer weather preferences. Using those preferences, identify potential travel destinations and nearby hotels. The map pictured will show possible destinations. 
 
 ![2](Images/2.png)
 
